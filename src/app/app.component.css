@@ -1,0 +1,19 @@
+app-block {
+    position: fixed;
+}
+
+.top {
+    top: 5px;
+}
+
+.bot {
+    bottom: 0px;
+}
+
+.left {
+    left: 5px;
+}
+
+.right {
+    right: 0px;
+}
